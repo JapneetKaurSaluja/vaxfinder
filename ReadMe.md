@@ -1,0 +1,1 @@
+This is for finding vaccination slot availability from the Co-WIN API.
